@@ -116,6 +116,9 @@ for (let j = 1; j <= 10; j++) {
 
 console.log(result);*/
 
+/*
+
+//exo 6
 
 function somme() {
   let result = 0
@@ -131,3 +134,72 @@ function somme() {
 
 
 console.log(somme());
+*/
+
+
+
+
+
+
+
+/*
+
+//exo 7
+
+function somme() {
+  let result = 1
+
+  for (let i = 1; i <= 10; i++) {
+ 
+    result *= i
+    
+  }
+
+  return result
+}
+
+
+console.log(somme());*/
+
+
+
+
+
+
+
+// exo 8
+
+/*
+let result = 0
+
+for (let i = 10; i <= 30 ; i++) {
+
+
+
+
+if (i % 2 == 0) {
+  result += i 
+}
+
+  
+}
+console.log(result);*/
+
+
+// exo 9 
+
+/*
+
+function celsiustof(x) {
+  
+x = x * 9/5 + 32
+
+return x
+
+}
+
+console.log(celsiustof(54));
+
+*/
+
+
