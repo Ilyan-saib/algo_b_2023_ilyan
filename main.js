@@ -308,21 +308,38 @@ function positif(numbers) {
 //   fibbonnaci()
 
 // exo 15 
-
+/*
 function somme(numbr) {
- 
+let result = 0;
+  
 let str = numbr.toString()
 
 for (let i = 0; i < str.length; i++) {
   
-  let firstint = +str[i]
+  let tmp = parseInt(str[i],10)
+
+  result += tmp
 
   
 
 
   
 }
-
+return result
 }
 
-somme(505)
+console.log(somme(505)); */
+
+
+// exo 16
+
+
+function switche(number) {
+
+ for (let i = 0; i < number.length; i++) {
+ 
+  
+ }
+
+
+}
