@@ -203,3 +203,126 @@ console.log(celsiustof(54));
 */
 
 
+// exo 10
+
+/*function somme(numbers) {
+let result = 0
+  for (let i = 0; i < numbers.length; i++) {
+    
+    
+
+ 
+ 
+    result += numbers[i]
+    
+
+
+
+  }
+  
+  return result
+}
+
+
+console.log(somme([69,1]));*/
+
+//exo 11
+
+/*
+function moyenne(numbers) {
+  let result = 0
+    for (let i = 0; i < numbers.length; i++) {
+      
+      
+  
+   
+   
+      result += numbers[i]
+
+      
+      
+  
+  
+  
+    }
+    result = result / numbers.length 
+    return result
+  }
+  
+  
+  console.log(moyenne([5,17,15]));*/
+
+
+// exo 12
+
+/*
+function positif(numbers) {
+  let result = []
+    for (let i = 0; i < numbers.length; i++) {
+      
+      if (numbers[i] > 0) {
+        result.push(numbers[i])
+      }
+  
+   
+    }
+   return result
+  }
+  
+  console.log(positif([5,8,-5]));*/
+
+
+
+  //exo 13 
+
+  // function maximum(numbers) {
+
+  //   for (let i = 0; i < numbers.length; i++) {
+      
+  //     let numb = numbers[i]
+
+     
+      
+
+  //   }
+    
+  // } 
+
+  // maximum([5,8,6])
+
+
+  // exo 14
+
+//   function fibbonnaci() {
+//    let result = "" 
+// for (let i = 1; i <= 10; i++) {
+
+// let num1 = i
+
+
+
+// }
+
+//   }
+
+//   fibbonnaci()
+
+// exo 15 
+
+function somme(numbr) {
+ 
+let str = numbr.toString()
+
+for (let i = 0; i < str.length; i++) {
+  
+  let firstint = +str[i]
+
+  
+
+
+  
+}
+
+}
+
+somme(505)
